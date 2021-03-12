@@ -4,7 +4,7 @@ import styles from "./styles";
 export default function rest_parameters({ navigation }) {
     return (
         <View style={styles.rest_parameter}>
-            <Text style={styles.pojecie}>Spread operator</Text>
+            <Text style={styles.pojecie}>Rest parameters</Text>
             <Text style={styles.textrest}>
             Pozwala funkcji na przyjmowanie nieokreślonej liczby 
             argumentów jako tablicy, zapewniając sposób reprezentowania
