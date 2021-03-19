@@ -1,10 +1,11 @@
 # aplikacje-mobilne-DawidPawlowski-185ic_A1
 
 # Lab3
-Aplikacja z pięcioma ekranami, trzy przełączane za pomocą createDrawerNavigator trzeci ekran przenosi nas po między trzema ekranami
-reprezentuąc progres krokowy przy wykorzystaniu createStackNavigator.
+# Aplikacja z pięcioma ekranami, trzy przełączane za pomocą createDrawerNavigator trzeci ekran przenosi nas po między trzema ekranami
+# reprezentuąc progres krokowy przy wykorzystaniu createStackNavigator.
 
-# Ekran1 wyświetla 100 pseudolosowych liczb które możemy sortować od największej do najmniejszej i odwrotnie oraz filtrowac za pomocą wpisywanego tekstu w pole search
+# Ekran1 wyświetla 100 pseudolosowych liczb które możemy sortować od największej do najmniejszej i odwrotnie 
+# oraz filtrowac za pomocą wpisywanego tekstu w pole search
 
 # Sortowane od najmniejszej do najwiekszej 
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/1.png)
