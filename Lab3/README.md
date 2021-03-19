@@ -15,12 +15,14 @@ Kozysta z plików: List.js, ListContainer.js, ListFilter.js, ListSort.js, ListCo
 
 # Ekran2 wyświetla 20 losowych liter i cyfr o długości 6 przy zasowaniu lazy loading 
 Kozysta z plików: ListCntainerLazy.js, ListLazy.js, api.js
+
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/2.png)
 # Oznacza to że, wyświetlanych jest tylko 20 obiektów i przy scrollowaniu dodaje się kolejne 20 przy pomocy funkcji fetchItems ustawione na akcje onMomentumScrollBegin
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/2.1.png)
 
 # Ekran3 zawiera dwa pod ekrany reprezentujące progres krokowy, każdy ekran inaczej ostylowany zawierają ActivityIndicator
 Kozysta z plików: ekran3.js, ProgressBar.js, ProgresBarComponent.js, First.js, Second.js, Third.js 
+
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/3.png)
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/3.1.png)
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab3/3.2.png)
