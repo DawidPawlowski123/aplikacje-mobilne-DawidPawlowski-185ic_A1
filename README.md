@@ -9,7 +9,7 @@ Aplikacja z trzema ekranami przełączane za pomocą BottomTabNavigator z opisem
 
 # spread_operator.js
 # Jeden z ekranów z zawartością opisywanaego obiektu.
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab2Navi/2.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab2Navi/2.1.png)
 
 # styles.js
 # Wygląd poszczególnych ekranów i ich komponentów.
