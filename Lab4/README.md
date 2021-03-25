@@ -35,7 +35,9 @@ Przedstawia wybór daty i czasu która jest wypisywany na ekranie oraz przycisk 
 # Ekran5
 Pliki: ekran5.js Activity.js Notification.js styleEkran5.js
 Przedstawia pasywne powiadomienia przy pomocy ToastAndroid "Naciśnij" zlicza ilosc kliknięc w to pole, 
+
 "Pokaż powiadomienie" wywołuje pasywne powiadomienie "Witaj coś się wydarzyło!",
+
 "Załaduj..." modal zawierający ActivityIndicator
 
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab4/5.png)
