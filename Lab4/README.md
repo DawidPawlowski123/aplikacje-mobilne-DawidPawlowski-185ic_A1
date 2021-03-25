@@ -10,7 +10,8 @@ Przedstawia mozliwości komponentu TextInput takie jak placeholder, returnKeyTyp
 
 # Ekran2
 Pliki: ekran2.js select.js styleSelect.js
-Przedstawia komponenty Select. Na początku wybieramy rozmiar, w zależności od wybranego rozmiaru możemy wybrać ubrania po wybraniu obydwóch selectów wyświetla się co wybraliśmy.
+Przedstawia komponenty Select. Na początku wybieramy rozmiar, w zależności od wybranego rozmiaru możemy 
+wybrać ubrania po wybraniu obydwóch selectów wyświetla się co wybraliśmy.
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab4/2.png)
 
 # Ekran3
