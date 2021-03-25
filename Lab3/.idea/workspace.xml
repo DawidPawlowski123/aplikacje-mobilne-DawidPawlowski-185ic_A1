@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ee6dea-5a38-4121-9c16-a57ad72a1041" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lab2Navi/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +34,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="153" width="1235" height="799" key="AVDManager" timestamp="1616142702957">
+    <state x="517" y="153" width="1235" height="799" key="AVDManager" timestamp="1616608057331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="517" y="153" width="1235" height="799" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1616142702957" />
+    <state x="517" y="153" width="1235" height="799" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1616608057331" />
   </component>
 </project>
