@@ -4,15 +4,14 @@ import { ToastAndroid } from "react-native";
 
 export default function Notification({ message, duration }) {
     if (message) {
-    ToastAndroid.show(message, duration);
+        ToastAndroid.show(message, duration);
     }
     return null;
-   }
-   Notification.propTypes = {
+}
+Notification.propTypes = {
     message: PropTypes.string,
     duration: PropTypes.number.isRequired
-   };
-   Notification.defaultProps = {
+};
+Notification.defaultProps = {
     duration: ToastAndroid.LONG
-   };
-   
+};
