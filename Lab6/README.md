@@ -9,7 +9,7 @@ Pliki: ekran1.js styles.js
 Przedstawia użycie komponentu Image dwa obrazy załadowane metodą require i jeden z uri,
 zaimplementowana zmiana rozmiaru za pomocą komponentu Slider dwóch z trzech obrazów.
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screny/1.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab6/screny/1.png)
 
 # Ekran2
 Pliki: ekran2.js styles2.js
