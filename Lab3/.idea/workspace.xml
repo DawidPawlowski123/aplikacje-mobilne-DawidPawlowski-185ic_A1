@@ -13,6 +13,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1py40rRePtG6SV4kKkE5QQbmOTv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -34,9 +38,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="153" width="1235" height="799" key="AVDManager" timestamp="1616698257742">
+    <state x="592" y="207" width="1088" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618486030201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="517" y="153" width="1235" height="799" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1616698257742" />
+    <state x="592" y="207" width="1088" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618486030201" />
+    <state x="517" y="153" width="1235" height="799" key="AVDManager" timestamp="1618491826502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="153" width="1235" height="799" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618491826502" />
+    <state x="635" y="197" key="SettingsEditor" timestamp="1618486066874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="197" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618486066874" />
   </component>
 </project>
