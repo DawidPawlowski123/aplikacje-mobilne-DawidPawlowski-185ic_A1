@@ -1,45 +1,48 @@
 # aplikacje-mobilne-DawidPawlowski-185ic_A1
 
-# Lab6
-Aplikacja z sześcioma ekranmi.
+# Lab7
+Dwie aplikacje wykożystujące bazy danych SQLite, za pomocą modułu react-native-sqlite-storage.
 
-# Ekran1
-Pliki: ekran1.js styles.js
+# Wariant1
+Baza danych SQLite tworzona w momecie uruchomienia aplikacji.
 
-Przedstawia użycie komponentu Image dwa obrazy załadowane metodą require i jeden z uri,
-zaimplementowana zmiana rozmiaru za pomocą komponentu Slider dwóch z trzech obrazów.
+Główny ekran z funkcjami aplikacji.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/1.png)
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screny/1.png)
+Ekran z rejestracją użytkownika 
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.png)
 
-# Ekran2
-Pliki: ekran2.js styles2.js
+Ekran pozwalający na zmianę danych użytkownika.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/3.png)
 
-Przedstawia użycie komponentu Image z wykozystaniem komponentu Slider który pozwala zmienić rozmiar.
+Ekran wyświetlający dane konkretnego użytkownika po podaniu jego id.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/4.png)
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/2.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/2.1.png)
+Ekran wyświetlający wszystkich użytkowników.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/5.png)
 
-# Ekran3
-Pliki: ekran3.js Button.js LazyImage.js
+Ekran usówający urzytkownika o podanym id.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/6.png)
 
-Przedstawia użycie komponentu Button z wykozystaniem akcji na kliknięcie TouchableOpacity, TouchableHighlight.
+# Wariant2
+Baza danych stworzona wcześniej za pomocą DB Browser for SQLite i przekazana do aplikacji.
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/3.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/3.1.png)
+Główny ekran z funkcjami aplikacji.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.1.png)
 
-# Ekran4
-Pliki: ekran4.js Swipeable.js stylesekran4.js
+Wcześniej utworzeniu użytkownicy za pomocą DB Browser for SQLite.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.2.png)
 
-Przedstawia użycie komponentu Swipeable.
+Tworzenie nowego użytkownika.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.3.png)
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/4.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/4.1.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/4.2.png)
+Zmiana danych użytkownika o id = 1.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.4.png)
 
-# Ekran5
-Pliki: ekran5.js stylesekran5.js
+Wyświetlanie użytkownika o id = 2.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.5.png)
 
-Przedstawia użycie komponentu Pressable.
+Usówanie użytkownika o id = 1.
+![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab7/screens/2.2.png)
 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/5.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-mobilne-DawidPawlowski-185ic_A1/blob/master/Lab5/screens/5.1.png)
+
