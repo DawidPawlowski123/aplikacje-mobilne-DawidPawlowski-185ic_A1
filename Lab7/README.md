@@ -3,7 +3,7 @@
 # Lab7
 Dwie aplikacje wykożystujące bazy danych SQLite, za pomocą modułu react-native-sqlite-storage.
 Folder pages zawiera wykożystywane komponety. W wariancie1 w komponentach jest zadeklarowane że baza jest tworzona przy starcie 
-a w wariancie2 wskazujemy na bazę user_db która znajduję się: Lab7\Wariant2\android\app\src\main\assets\www
+a w wariancie2 wskazujemy na istniejącą bazę user_db która znajduję się: Lab7\Wariant2\android\app\src\main\assets\www
 
 # Wariant1
 Baza danych SQLite tworzona w momecie uruchomienia aplikacji.
